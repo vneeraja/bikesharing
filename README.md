@@ -41,5 +41,12 @@ In addition we also analyze the total number of trips taken in the popular month
 ![image](https://user-images.githubusercontent.com/111020934/201606300-e5bdfb8b-f54f-486a-ae10-fd050ac9af3d.png)
 
 ## Summary
+1. NYC CitiBike has more subcribers than customers indicating steady usage of bikes throughout the city. This means that the bikes need repair/maintinence on a daily basis. This can be done between 1AM-5AM.
+2. Most of the subscribers are men who take most of the bike trips for daily commute to work place/recreation. The popular days are Mondays through Fridays.
+3. We can also check in which locations most of the subscribers come to pick up bikes and hence those bikes would need a daily maintainence.
+![image](https://user-images.githubusercontent.com/111020934/201843357-69d4f10e-e689-4799-beb3-1c77ec014464.png)
+
+4. CitiBike has more subscribers than customers. We can analyze and see that most of the subscribers are young. Hence we can expect more younger population to be interested in bike trips.
+![image](https://user-images.githubusercontent.com/111020934/201844962-f9c479cb-1993-4da5-b9bf-7ecf4f19401b.png)
 
 
