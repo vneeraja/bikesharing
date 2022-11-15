@@ -12,7 +12,7 @@ Finally, we’ll use these visualizations for our final presentation and analysi
 
 ## Results
 
-The full NYC CitiBike Dashboard and Story can be viewed here https://public.tableau.com/app/profile/neeraja.v6475/viz/CitiBike_TripAnalysis/NYCCitiBikeStory?publish=yes
+The full NYC CitiBike Dashboard and Story can be viewed here [NYC CitiBike Story](https://public.tableau.com/app/profile/neeraja.v6475/viz/CitiBike_TripAnalysis/NYCCitiBikeStory?publish=yes)
 
 1. Show the length of time that bikes are checked out for all riders and genders.
 
