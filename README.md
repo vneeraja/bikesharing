@@ -16,7 +16,7 @@ The full NYC CitiBike Dashboard and Story can be viewed here [NYC CitiBike Story
 
 ## Results
 
-1. Show the length of time that bikes are checked out for all riders and genders.
+### 1. Show the length of time that bikes are checked out for all riders and genders.
 
 Most of the riders checkout bikes for less than 50 mins.
 ![image](https://user-images.githubusercontent.com/111020934/201603571-bbf209bb-f330-4d64-afd1-da112c96c833.png)
@@ -24,7 +24,7 @@ Most of the riders checkout bikes for less than 50 mins.
 Most of the riders are male who checkout bikes for less than 50 mins.
 ![image](https://user-images.githubusercontent.com/111020934/201603671-bf1842a9-b0d6-4ec7-b116-1dfbdb041f3a.png)
 
-2. Show the number of bike trips for all riders and genders for each hour of each day of the week.
+### 2. Show the number of bike trips for all riders and genders for each hour of each day of the week.
 
 The popular trip days are Mondays through Fridays between 7AM-9AM and 5PM-7PM.
 ![image](https://user-images.githubusercontent.com/111020934/201603824-dc7846cd-ec2f-4aac-be45-fed1c81ab76f.png)
@@ -32,7 +32,7 @@ The popular trip days are Mondays through Fridays between 7AM-9AM and 5PM-7PM.
 The popular trip days are Mondays through Fridays and most of these are taken by men.
 ![image](https://user-images.githubusercontent.com/111020934/201603907-cfa2bc68-107c-4131-b112-1fc337975dd0.png)
 
-3. Show the number of bike trips for each type of user and gender for each day of the week.
+### 3. Show the number of bike trips for each type of user and gender for each day of the week.
 
 CitiBike subcribers take most of the trips and mostly taken by men. The popular trip day is Thursday.
 ![image](https://user-images.githubusercontent.com/111020934/201604026-50307d94-68e3-4276-9ba9-eb405068dc0f.png)
