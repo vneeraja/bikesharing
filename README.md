@@ -10,9 +10,11 @@ We will create a set of visualizations to:
 3. Show the number of bike trips for each type of user and gender for each day of the week.
 Finally, we’ll use these visualizations for our final presentation and analysis to pitch to investors.
 
-## Results
+## Link to Tableau Dashboard
 
 The full NYC CitiBike Dashboard and Story can be viewed here [NYC CitiBike Story](https://public.tableau.com/app/profile/neeraja.v6475/viz/CitiBike_TripAnalysis/NYCCitiBikeStory?publish=yes)
+
+## Results
 
 1. Show the length of time that bikes are checked out for all riders and genders.
 
